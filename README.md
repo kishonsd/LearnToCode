@@ -1,5 +1,5 @@
 
-# LearnToCode
+# Learn Swift
 
 <h2> A few tutorials and videos to help you learn how to build iOS apps. </h2>
 
